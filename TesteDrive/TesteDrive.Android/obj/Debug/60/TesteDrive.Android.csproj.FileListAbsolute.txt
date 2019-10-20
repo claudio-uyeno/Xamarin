@@ -1,0 +1,3 @@
+C:\Git\Alura\Xamarin\TesteDrive\TesteDrive.Android\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Git\Alura\Xamarin\TesteDrive\TesteDrive.Android\obj\Debug\60\build.props
+C:\Git\Alura\Xamarin\TesteDrive\TesteDrive.Android\obj\Debug\60\adb.props
